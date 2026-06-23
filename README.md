@@ -126,8 +126,23 @@ Predicting-Stellar-Class/
 * Feature Importance Analysis
 * Ensemble Methods
 
+## Results
+
+The final model achieved a Kaggle public leaderboard score of **0.94374**.
+
+### Performance Summary
+
+* Competition: Kaggle Playground Series S6E6
+* Task: Multi-Class Classification
+* Classes: GALAXY, QSO, STAR
+* Public Leaderboard Score: **0.94374**
+
+The project demonstrates an end-to-end machine learning workflow including data preprocessing, feature encoding, model training, evaluation, and competition submission generation.
+
+
 ## Author
 
 Abhiram
 
 Aspiring AI/ML Engineer
+
